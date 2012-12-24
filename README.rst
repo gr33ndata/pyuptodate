@@ -2,7 +2,7 @@ PyUptodate
 ===========
 
 A small script to check all installed Python modules and update them. 
-The code is inspired by Ramana Varanasi (`@sramana9<https://github.com/sramana>`_)
+The code is inspired by Ramana Varanasi (`@sramana9 <https://github.com/sramana>`_)
 
 Installation
 -------------
